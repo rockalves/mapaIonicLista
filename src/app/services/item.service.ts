@@ -8,23 +8,23 @@ export class ItemService {
   items: Array<any> = [
     {
       'id': "1",
-      'title': "Example 1",
-      'description': 'description 1'
+      'title': "Tarefa 1",
+      'description': 'Estudar Ionic'
     },
     {
       'id': "2",
-      'title': "Example 2",
-      'description': 'description 2'
+      'title': "Tarefa 2",
+      'description': 'Praticar guitarra'
     },
     {
       'id': "3",
-      'title': "Example 3",
-      'description': 'description 3'
+      'title': "Tarefa 3",
+      'description': 'Cuidar da família'
     },
     {
       'id': "4",
-      'title': "Example 4",
-      'description': 'description 4'
+      'title': "Tarefa 4",
+      'description': 'Trabalhar'
     }
   ]
 
